@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on sad balloons</title>
+    <link>https://sadballoons.com/categories/</link>
+    <description>Recent content in Categories on sad balloons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sadballoons.com/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
