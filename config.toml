@@ -1,0 +1,34 @@
+baseURL = "https://sadballoons.com"
+title = "sad balloons"
+theme = "hugo-scroll"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+canonifyURLs = true
+enableRobotsTXT = true
+publishDir = "docs"
+
+[params]
+# When set true, it creates a visual guard (partially transparent rounded box),
+# preventing non-ideal background images from interfering with title/description headings
+# Ideal images are homogenous around the centre and contrasting to the text.
+# see CSS classes: .title-and-description-guard, .blog-title, .blog-description
+# see _index.md header_headline and header_subheadline
+title_guard = false
+# This title is used as the site_name on the Hugo's internal opengraph structured data template.
+# See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+title = "sad balloons"
+# A "copyright"-line to be added at the bottom of the page.
+copyright = "Copyright © 2023 sadballoons • All Rights Reserved"
+# This is used in the meta data of your generated html.
+description = "sad balloons"
+# Path to a (at least 32px x 32px) png-file.
+favicon = "images/sad.jpeg"
+# These "images" are used for the structured data templates. This will show up, when
+# services like Twitter or Slack want to generate a preview of a link to your site.
+# See https://gohugo.io/templates/internal#twitter-cards and
+# https://gohugo.io/templates/internal#open-graph.
+images = ["images/sad.jpeg"]
+hidedesignbyline = true
+
+[params.meta]
+keywords = "sad, balloons"
