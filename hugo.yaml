@@ -1,0 +1,18 @@
+baseURL: https://sadballoons.com
+title: sad balloons
+theme: hugo-scroll
+languageCode: en-us
+defaultContentLanguage: en
+canonifyURLs: true
+enableRobotsTXT: true
+publishDir: docs
+
+params:
+  title_guard: false
+  title: sad balloons
+  copyright: Copyright © 2024 sadballoons • All Rights Reserved
+  description: sad balloons
+  favicon: images/sad.png
+  hidedesignbyline: true
+  meta:
+    keywords: sad, balloons
