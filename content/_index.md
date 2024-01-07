@@ -1,3 +1,3 @@
 ---
-header_image: "images/sad.jpg"
+header_image: "images/sad.png"
 ---
