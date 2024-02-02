@@ -5,7 +5,6 @@ languageCode: en-us
 defaultContentLanguage: en
 canonifyURLs: true
 enableRobotsTXT: true
-publishDir: docs
 
 params:
   title_guard: false
