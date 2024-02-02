@@ -1,4 +1,4 @@
-baseURL: https://sadballoons.com
+baseURL: /
 title: sad balloons
 theme: hugo-scroll
 languageCode: en-us
